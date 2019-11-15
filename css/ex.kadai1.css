@@ -1,0 +1,36 @@
+h1{
+    color:darkorange;
+    text-align : center ;
+    background-color : azure;
+}
+
+h2{
+    color:darkorange;
+    text-align : center ;
+    background-color :black;
+}
+table{
+    
+     background-color :antiquewhite;
+   
+}
+
+h3{
+    color:hotpink;
+    
+}
+
+p{
+ color:white;
+}
+
+ol{
+      background-image:url("../images/04.jpg");
+    
+}
+
+body{
+    
+    background-image:url("../images/03.jpg");
+    background-attachment : fixed;
+}

@@ -1,0 +1,17 @@
+h1{
+    color:darkorange;
+    text-align : center ;
+    background-color : aqua ;
+}
+
+p{
+  font-size:25pix;
+  
+font-weight:bold;
+}
+
+body{
+    
+    background-image:url("../images/02.jpg");
+    background-attachment : fixed;
+}

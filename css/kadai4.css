@@ -10,23 +10,21 @@ h2{
     background-color :black;
 }
 
-
-h3{
-    color:hotpink;
-    
+.N{
+color : darkred;
+    background-color :green;
+}
+.M {
+color : blue;
+    background-color :hotpink;
 }
 
-p{
- color:white;
-}
 
-ol{
-      background-image:url("../images/04.jpg");
-    
-}
+
+
 
 body{
     
-    background-image:url("../images/03.jpg");
+    background-image:url("../images/06.jpg");
     background-attachment : fixed;
 }

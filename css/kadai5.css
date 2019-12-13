@@ -4,10 +4,15 @@ div.title{
     background-color:aquamarine;
     font-size:30px;
    font-family:"Impact";
-    margin: 20px;
+    margin-bottom: 20px;
    text-align: left;
 }
 
+div.box{
+    font-size: 0;
+    height: 320px;
+    width: 1000px;
+}
 
 
 
@@ -21,7 +26,7 @@ span.menuitem{
     text-align: center;
    font-family:"Impact";
     display:block;
-    margin: 10px;
+    margin-bottom: 10px;
       
 
      
@@ -36,6 +41,17 @@ span.image{
     text-align: center;
 }
 
+div.images{
+    width:700px;
+    height:320px;
+    display:inline-block;
+    vertical-align : top;
+    
+}
+div.top{
+    width: 1000;
+    
+}
 
 
 div.article{
@@ -57,7 +73,12 @@ div.footer{
 }
 
 div.menu{
-    width:200px;  
+    display:inline-block;
+    width:250px;  
+    height:320px;
+    margin-right: 50px;
+    font-size: 0;
+    vertical-align : top;
 }
 
-}
+

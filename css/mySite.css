@@ -9,7 +9,22 @@ div.title{
     
 }
 
+div.waord{
 
+    color: azure;
+     width:1350px;
+    height:60px;
+    font-family:"Impact";
+      background-color:black;
+}
+
+span.waord{
+    
+     width:230px;
+    height:100px;
+      color: azure;
+   font-size:20px;
+}
 
 span.menuitem{
     color: azure;
@@ -82,18 +97,21 @@ div.article{
 }
 
 div.footer{
-    width:1000px;
-    height:50px;
-    font-family: 'Haettenschweiler;
-    font-size:40px;
+  color: azure;
+    width:1350px;
+    height:100px;
+    background-color:black;
+    font-size:30px;
+   font-family:"Impact";
      text-align: right;
-    margin-top: 20px;
+    
 }
 
 div.menu{
     width:1500px;
     
 }
+
 
 
 
@@ -104,6 +122,6 @@ div.images{
 
 body{
     
-    background-image:url("../image/01.jpg");
+    background-image:url("../image/03.jpg");
     background-attachment : fixed;
 }

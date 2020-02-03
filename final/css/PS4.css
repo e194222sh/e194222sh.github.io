@@ -1,0 +1,129 @@
+div.title{
+    color: azure;
+    width:1350px;
+    height:100px;
+    background-color:black;
+    font-size:90px;
+   font-family:"Impact";
+     text-align: center;
+    
+}
+
+
+div.box{
+    font-size: 0;
+    height: 320px;
+    width: 1000px;
+    
+}
+
+
+
+span.menuitem{
+    
+    color: azure;
+     width:180px;
+    height:50px;
+    background-color:black;
+    font-size:35px;
+    text-align: center;
+   font-family:"Haettenschweiler";
+    display:block;
+    margin-bottom: 10px;
+   border: 5px dotted pink;
+   margin-top: 10;
+     
+}
+
+span.image{
+    display:inline-block;
+    width:700px;
+    height:300px;
+    
+   color: white;
+    text-align: center;
+}
+
+div.images{
+    width:700px;
+    height:320px;
+    display:inline-block;
+    vertical-align : top;
+    
+}
+
+div.waord{
+
+    color: azure;
+     width:1350px;
+    height:300px;
+    font-family:"Impact";
+      background-color:rebeccapurple;
+    max-height: 
+}
+
+span.waord{
+    
+     width:230px;
+    height:100px;
+      color: azure;
+   font-size:20px;
+}
+
+div.top{
+    width: 1000;
+    
+}
+
+
+div.article{
+    width:700px;
+    height:20px;
+    background-color:bisque;
+    font-size:15px;
+     text-align: center;
+   font-family:"Impact";
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:cadetblue;
+    font-size:30px;
+     text-align: right;
+    margin-top: 20px;
+}
+
+div.menu{
+    display:inline-block;
+    width:250px;  
+    height:320px;
+    margin-right: 50px;
+    font-size: 0;
+    vertical-align : top;
+}
+
+div.footer{
+  color: azure;
+    width:1350px;
+    height:50px;
+    background-color:black;
+    font-size:30px;
+   font-family:"Impact";
+     text-align: right;
+    
+}
+span.footer{
+    
+     width:230px;
+    height:100px;
+      color: azure;
+   font-size:20px;
+}
+
+
+body{
+    
+    background-image:url("../image/03.jpg");
+    background-attachment : fixed;
+}
